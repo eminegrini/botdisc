@@ -13,7 +13,7 @@
     "music",
     "bot"
   ],
-  "author": "Gabriel Tanner",
+  "author": "Emiliano Negrini",
   "license": "MIT",
   "dependencies": {
     "@discordjs/opus": "^0.6.0",
